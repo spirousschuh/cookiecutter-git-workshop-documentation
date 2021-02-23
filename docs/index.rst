@@ -19,7 +19,7 @@ first we will start with the basics of documentation.
    :maxdepth: 2
    :caption: Documentation Basic
 
-   docu-content/doc_101
+   docu-content/docu_101
    docu-content/restructuredText
 
 The second session will be about publishing your documentation on the web.
