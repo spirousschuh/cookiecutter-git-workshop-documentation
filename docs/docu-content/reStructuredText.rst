@@ -52,7 +52,7 @@ Libre Office. The idea of using it for documentation is:
 Idea
 ----
 
-Here some good features of *restructuredText*:
+Here some good features of *reStructuredText*:
 
 * automatic formatting
 * changes are traceable with git
@@ -82,8 +82,10 @@ And some things to keep in mind when writing your documentation
 * can create multiple output formats
 
    * html
-   * LaTEX
-   * pdf
+   * LaTEX (pdf)
+   * ePub
+   * manual pages
+   * plain text
 
 
 

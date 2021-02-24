@@ -20,7 +20,7 @@ first we will start with the basics of documentation.
    :caption: Documentation Basic
 
    docu-content/docu_101
-   docu-content/restructuredText
+   docu-content/reStructuredText
 
 The second session will be about publishing your documentation on the web.
 
