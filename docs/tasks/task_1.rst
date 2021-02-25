@@ -1,43 +1,26 @@
-==================
-Task 1: Unit Tests
-==================
+==============
+Task 1: Readme
+==============
 
-Please create a seperate branch for each of the sub-tasks and create a
+Please create a seperate branch for each task and create a
 Merge Request every time.
 You can find detailed instructions on the :ref:`git-workflow` page.
 
-Understand the Function
------------------------
+TODO (Task 1): Please add a small Readme in the format reStructuredText.
+So you should change the file ``README.rst``.
 
-The repository that you created in task 0 mostly consists of two python files
-*cli.py* and *processing.py*. The file *processing.py* contains a function
-called *invert_image* which is not properly tested.
+It should contain:
 
-Try to understand what it does.
+* the repository’s purpose
+* an installation guide
+* a small snippet how to use the command line interfact
 
-If you want more clarity on how it works, it might be a good idea to take a
-look on a unit test. Try to find the unit test that corresponds the
-*invert_image* function.
+Please keep in mind:
 
+* indention is 3 spaces
+* blank lines are important to seperate blocks from each other
 
-Extend a Unit Test
-------------------
+After merging your Merge Request you should see your new ``README.rst`` at the
+landing page of your project
+``https://git.tu-berlin.de/kiwi-git-workshops/your_project``.
 
-
-Now it is your job to change that. In the file *tests/test_processing.py* there
-is a function called *test_invert_image_one_pixel*. This is a first
-basic unit test you can start with.
-
-Do not forget to create a Merge Request and merge it.
-
-
-Add a Second Unit Test
-----------------------
-
-Now that we have one unit test for the function *invert_image* we want to
-check if it really works properly. Therefore we want to write a another
-unit test.
-
-In the file *tests/test_processing.py* there is a function called
-*test_invert_image_two_pixel*. Please use this function to write a second unit
-test.

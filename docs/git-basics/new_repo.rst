@@ -49,7 +49,7 @@ Therefore we use a template via the following steps:
 
    .. code-block::
 
-       cookiecutter https://github.com/spirousschuh/cookiecutter-git-workshop-testing
+       cookiecutter https://github.com/spirousschuh/cookiecutter-git-workshop-documentation
 
 5. Specify the template parameter. Now you will see
 

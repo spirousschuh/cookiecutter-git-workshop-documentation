@@ -25,6 +25,7 @@ from `Wikipedia <https://en.wikipedia.org/wiki/Docstring#Python>`_:
 
 Most entities have a docstring. You can check it via ``my_entity.__doc__``.
 
+.. _detaileddocstring:
 
 Detailed Docstring
 ==================
@@ -82,7 +83,9 @@ documentation.
 Please note that ``adding_numbers.addition.addition`` refers to the function
 in the same way you would import it. You can see the result here:
 
+
 .. autofunction:: adding_numbers.addition.addition
+
 
 Please note that the convention we used here is the one from *reStructuredText*.
 There is other conventions from Google as well as from Numpy that are fairly
