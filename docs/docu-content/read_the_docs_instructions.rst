@@ -75,4 +75,9 @@ is merged. Therefore we will add a webhook to the repository.
 #. Click on the button **Add integration**
 #. In the pull down menue select *GitLab incoming webhook* and click on the
    **Add integration** button
-#.
+#. Now right click on the link that you see and that starts with
+   ``readthedocs.org/api/v2/webhook/...`` to copy it
+#. Go back to your repository ``https://git.tu-berlin.de/your/repo/url``
+#. Click on **Settings>Webhooks**
+#. Copy the webhook URL to the *URL* field
+#. Scroll down and click on *Add webhook*.
